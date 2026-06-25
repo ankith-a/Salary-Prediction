@@ -117,7 +117,7 @@ Salary-Prediction-Using-Machine-Learning/
 │   ├── salary_by_country.png
 │
 ├── models/
-│   └── salary_prediction_model.pkl
+│   └── saveModel.pkl
 │
 ├── requirements.txt
 │
