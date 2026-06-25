@@ -114,11 +114,7 @@ Salary-Prediction-Using-Machine-Learning/
 │   └── survey_results.csv
 │
 ├── screenshots/
-│   ├── salary_distribution.png
 │   ├── salary_by_country.png
-│   ├── education_analysis.png
-│   ├── experience_vs_salary.png
-│   └── model_prediction.png
 │
 ├── models/
 │   └── salary_prediction_model.pkl
