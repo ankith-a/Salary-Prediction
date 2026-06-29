@@ -114,10 +114,15 @@ Salary-Prediction-Using-Machine-Learning/
 │   └── survey_results.csv
 │
 ├── screenshots/
-│   ├── salary_by_country.png
+│   └── salary_by_country.png
 │
 ├── models/
 │   └── saveModel.pkl
+├── app/
+│   ├── Home.py
+│   └── Pages/
+│        ├── EDA.py
+│        └── Prediction.py
 │
 ├── requirements.txt
 │
